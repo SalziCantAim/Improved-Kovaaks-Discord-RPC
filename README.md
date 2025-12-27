@@ -19,11 +19,10 @@ Using this app is fully on your own risk, I have no responsibility of it working
 ## Features
 
 - Displays current scenario name on Discord
-- Shows local and session high scores
-- Syncs with Kovaak's online leaderboards
-- Minimizes to system tray
-- Auto-starts with Windows (optional)
-- Lightweight native application
+- Displays local and session high scores
+- Adds a "Play" Button for both Scenarios and Playlists for people to also play
+- Can sync most online Highscores if wanted
+- Lightweight app (will hopefully improve this but currently ~100mb ram honestly kinda shit.)
 
 ## Requirements
 
@@ -121,6 +120,7 @@ I did use AI for this README bcs I'm not a word person, and also for structuring
 ## License
 
 MIT
+
 
 
 
