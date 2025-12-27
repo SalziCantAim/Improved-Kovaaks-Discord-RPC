@@ -51,14 +51,14 @@ cd Improved-Kovaaks-Discord-RPC
 cargo build --release
 ```
 
-3. The executable will be at `target/release/kovaaks-rpc.exe`
+3. The executable will be at `target/release/KovaaksDiscordRPC.exe`
 
 4. (Optional) Copy the `assets` folder next to the executable for the application icon.
 
 ## Usage
 
 1. Make sure Discord is running
-2. Launch `kovaaks-rpc.exe`
+2. Launch `KovaaksDiscordRPC.exe`
 3. The app will appear in your system tray
 4. Start Kovaaks and your Discord status will update automatically
 
@@ -121,6 +121,7 @@ I did use AI for this README bcs I'm not a word person, and also for structuring
 ## License
 
 MIT
+
 
 
 
